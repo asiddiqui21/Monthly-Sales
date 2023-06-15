@@ -23,3 +23,6 @@ Created a data analysis and visualization project to provide insights into sales
 - Data preprocessing: Handling missing values, converting data types, and ensuring data quality.
 - Reporting and presentation: Summarizing findings and communicating insights to stakeholders effectively.
 - Converting Date month to reflect month names.
+
+## Final Output
+![](Figure_1.png)
